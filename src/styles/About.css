@@ -1,0 +1,25 @@
+.about-box {
+  max-width: 750px;
+  padding: 36px;
+  background: var(--card);
+  border-radius: 20px;
+  box-shadow: var(--shadow-sm);
+  line-height: 1.8;
+  border-left: 6px solid var(--primary);
+}
+
+.about-box p {
+  margin-bottom: 14px;
+  color: var(--muted);
+}
+
+.about-box h2 {
+  margin: 24px 0 10px;
+  color: var(--primary-dark);
+}
+
+.about-box ul {
+  margin-left: 22px;
+  margin-bottom: 14px;
+  color: var(--muted);
+}
